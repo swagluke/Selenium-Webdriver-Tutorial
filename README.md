@@ -2,6 +2,7 @@
 This Github repo is a serving as a tutorial for setting up Selenium Webdriver in OSX and Ubuntu 16.04(With and without GUI) environment. It also contains a quick example of using webdriver.Remote() to re attach back to exisiting webdriver.
 
 Credit to @ziadoz https://gist.github.com/ziadoz/3e8ab7e944d02fe872c3454d17af31a5 at GitHubGist for creating such great installation script. 
+
 Also credit to @tarunlalwani http://tarunlalwani.com/post/reusing-existing-browser-session-selenium/ for creating the working re-attach code on his blog. I modified a little bit in order to make it working for Ubuntu.
 
 # How to Use
@@ -13,5 +14,9 @@ If running Ubuntu
 4. Verify whether install sucessful by running the start-chrome.sh. Type "sudo ./start-chrome.sh"
 5. Run the Example.py. Happy Testing Websites. ;)
 
+# Code ScreenShots
+![Example.py ScreenShot](https://raw.githubusercontent.com/swagluke/Selenium-Webdriver-Tutorial/master/ExampleScreenShot.png)
+![Install.py ScreenShot](https://raw.githubusercontent.com/swagluke/Selenium-Webdriver-Tutorial/master/InstallScreenShot.png)
+![Start-Chrome ScreenShot](https://raw.githubusercontent.com/swagluke/Selenium-Webdriver-Tutorial/master/Start-chromeScreenShot.png)
 
 
